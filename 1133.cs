@@ -6,7 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            int x, y, d;
+            int x, y;
 
             Console.WriteLine("Escreva um número inteiro:");
             x = int.Parse(Console.ReadLine());
